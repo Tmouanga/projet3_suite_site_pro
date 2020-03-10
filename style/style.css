@@ -5,24 +5,43 @@ body {
     /* Style the header */
 .header {
     background-color: #d15698;
-    padding: 40px;
+    padding: 20px;
   }
 
-  img {
+img {
       display: block;
-      margin-left:auto ;
+      margin-left:auto;
       margin-right: auto;
-      height: 160px;;
+      height: 160px;
   }
 
-  .topnav a {
-    float: center;
-    display: block;
+.topnav a {
     color: #f2f2f2;
-    text-align: center;
-    padding: 10px;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Oswald','HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.topnav {
+    background-color:#d15698;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
   }
 
-  .topnav {
-    background-color:#d15698;
-  }
+.text-name h1{
+    text-align: center;
+    color: #f0c8e0;
+    letter-spacing: 1px;
+    font-family: 'Oswald','HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    line-height: 1.1em;
+    margin-bottom: 14px;
+    padding: 30px;
+
+}
+
+
+
