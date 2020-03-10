@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(5, 5, 5);
+    }
+
+    /* Style the header */
+.header {
+    background-color: #d15698;
+    padding: 40px;
+  }
+
+  img {
+      display: block;
+      margin-left:auto ;
+      margin-right: auto;
+      height: 160px;;
+  }
+
+  .topnav a {
+    float: center;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .topnav {
+    background-color:#d15698;
+  }
