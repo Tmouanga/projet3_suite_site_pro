@@ -10,6 +10,7 @@ body {
     }    
 
     /* Style the header & topnav */
+
 .header {
     background-color: #d15698;
     padding: 20px;
@@ -125,8 +126,8 @@ body {
     font-family: 'Roboto-BoldCondensed', Roboto, sans-serif;
     line-height: 1.65em;
     color: black;
-    margin: auto;
-    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .section-experience h2 {
@@ -152,7 +153,8 @@ body {
     font-family: 'Roboto-BoldCondensed', Roboto, sans-serif;
     color: white;
     line-height: 1.65em;
-    margin: auto;
+    padding-left: 100px;
+    padding-right: 100px;
 }   
 
 .section-project h2 {
@@ -211,25 +213,23 @@ h3 {
 
 .fab {
     color: white;
-    font-size: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
+    font-size: 60px;
+    padding-left: 130px;
+    padding-right: 130px;
     padding-top: 80px;
-    border-radius: 100px;
-    border-color: violet;
 }
 .far {
     color: white;
-    font-size: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
+    font-size: 60px;
+    padding-left: 130px;
+    padding-right: 130px;
     padding-top: 80px;
 }
 .fas {
     color: white;
-    font-size: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
+    font-size: 60px;
+    padding-left: 130px;
+    padding-right: 130px;
     padding-top: 80px;
 }
 
