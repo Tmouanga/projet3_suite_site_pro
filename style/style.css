@@ -380,9 +380,9 @@ footer {
 * MEDIA QUERY
 */
 
-@media screen and (min-width: 940px) {
-.grid {
-    display: grid;
-    grid-template-columns: auto;
-}
-}
+@media only screen and (max-width:600px) {
+    /* For mobile phones: */
+    .section-header, .text-x-pic, .flex__grid {
+      width:100%;
+    }
+  }
